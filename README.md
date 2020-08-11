@@ -6,12 +6,12 @@ we can get the Customer's list converted from Java POJO to JSON.
 ![All-Customers](https://github.com/Henry-Azer/Customer-Tracker-RESTAPIs/blob/master/src/main/resources/Images/AllCustomers.png?raw=true)
 
 • You can also obtain a specific customer by typing its ID in the Http with Get method
-behind the scenes using @PathVariable
+behind the scenes using @PathVariable.
 
 ![specific-Customer](https://github.com/Henry-Azer/Customer-Tracker-RESTAPIs/blob/master/src/main/resources/Images/SpecificCustomer.png?raw=true)
 
 • In the case of writing ID does not exist or writing any letters,
-there is @Exceptionhandler to review the existing Customers or any special Exceptions,
+there is @ExceptionHandler to review the existing Customers or any special Exceptions,
 it will be monitored and it will be that way:
 
 ![Customer-Exception](https://github.com/Henry-Azer/Customer-Tracker-RESTAPIs/blob/master/src/main/resources/Images/CustomerException.png?raw=true)
