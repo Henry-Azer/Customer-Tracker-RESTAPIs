@@ -1,4 +1,4 @@
-# Customer-Tracker (RESTAPIs)
+# Customer Tracker (RESTAPIs)
 
 • Using local database and through the Postman program, using GET method through this Http,
 we can get the Customer's list converted from Java POJO to JSON.
