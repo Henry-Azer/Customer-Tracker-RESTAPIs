@@ -23,9 +23,10 @@ You can write data in JSON format.
 
 • Via Put method and behind the scenes using @RequestBody ,
 you can update information about customer like that.
+
 *Before Update:
 
-![Before-Update-Customer](https://github.com/Henry-Azer/Customer-Tracker-RESTAPIs/blob/master/src/main/resources/Images/AddCustomer.png?raw=true)
+![Before-Update-Customer](https://github.com/Henry-Azer/Customer-Tracker-RESTAPIs/blob/master/src/main/resources/Images/UpdateCustomer.png?raw=true)
 
 *After Update:
 
